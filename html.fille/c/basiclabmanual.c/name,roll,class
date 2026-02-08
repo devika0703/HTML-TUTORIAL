@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main() {
+    printf("Name: Devika Singh\n");
+    printf("Roll_no: 25-IoT-27\n");
+    printf("College_name: GEC JAMUI\n");
+return 0;   
+
+}
